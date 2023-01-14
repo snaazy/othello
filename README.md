@@ -1,5 +1,6 @@
-# othello
-Second year Java programming project
+# Othello
+Rules : https://fr.wikipedia.org/wiki/Othello_(jeu) <br>
+Second year Java programming project <br>
 
  Note that this is the very first version of the game, there are some algorithmic problems to correct
 
