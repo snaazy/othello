@@ -6,7 +6,7 @@ Othello est un jeu de stratégie pour deux joueurs, le but est de capturer les p
 ## Auteurs
 
 FEKIH HASSEN Yassine
-MEZRAGUE Chanez
+
 
 
 
